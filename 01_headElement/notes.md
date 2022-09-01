@@ -1,0 +1,1 @@
+- Everything written in the head element is not seen on the web page.
