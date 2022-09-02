@@ -27,8 +27,8 @@ We can also add links to the current page by adding the **id** attributes to tar
 Example on this page:
 <nav>
   <ul>
-    <li><a href="https://github.com/Lamy237/html-course/blob/main/04_addingLinks/README.md#add-a-link-to-another-page">First title</a></li>
-    <li><a href="https://github.com/Lamy237/html-course/blob/main/04_addingLinks/README.md#add-a-link-to-the-current-page">Second title</a></li>
+    <li><a href="#add-a-link-to-another-page">First title</a></li>
+    <li><a href="#add-a-link-to-the-current-page">Second title</a></li>
   </ul>
 </nav>
 
