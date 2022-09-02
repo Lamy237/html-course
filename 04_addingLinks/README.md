@@ -24,13 +24,6 @@ We can also add links to the current page by adding the **id** attributes to tar
   <p>Empty planet, no human life so far</p>
 </section>
 ```
-Example on this page:
-<nav>
-  <ul>
-    <li><a href="#add-a-link-to-another-page">First title</a></li>
-    <li><a href="#add-a-link-to-the-current-page">Second title</a></li>
-  </ul>
-</nav>
 
 ### Back to top
 We can add a link to bring us back to the top of the page by just passing a hashtag to the **href** attribute.
