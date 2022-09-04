@@ -18,6 +18,4 @@ A form input can be created the following way :
 Different input types include : **button, checkbox, color, date, datetime-local, email, file, hidden, image, month, number, password, radio, range, reset, search, submit, tel, text, time, url, week**.
 
 ## Attributes
-
-|Name|Use|
-|----|---|
+Reference link on [w3shools](https://www.w3schools.com/tags/tag_input.asp)
