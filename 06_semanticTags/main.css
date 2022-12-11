@@ -1,5 +1,5 @@
 html {
-    font-size: 20px;
+    font-size: 1.125rem;
 }
 
 body {
@@ -18,4 +18,14 @@ a:visited {
 a:hover,
 a:active {
     color: #eee;
+}
+
+summary {
+    cursor: pointer;
+}
+
+mark {
+    background-color: dodgerblue;
+    border-radius: 1em 0;
+    padding: 0.5rem;
 }
