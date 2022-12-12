@@ -20,6 +20,7 @@ Different input types include : **button, checkbox, color, date, datetime-local,
 ## Important
 
 - Only 1 input on the page can have the [`autofocus`](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/autofocus) attribute.
+- The attribute [`selected`](https://www.w3schools.com/tags/att_option_selected.asp) is not supported on firefox. To fix this, you should add a `name` attribute to the form element.
 
 ## 📚 HTML Forms References: 
 - 🔗 [MDN: Web Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
