@@ -57,3 +57,9 @@ There are three (03) types of lists in HTML :
   <dt>Mountain Tops</dt>
   <dd>These are also cold.</dd>
 </dl>
+
+## 📚 References
+
+- 🔗 [MDN: The Ordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
+- 🔗 [MDN: The Unordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+- 🔗 [MDN: The Description  List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)
