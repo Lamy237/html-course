@@ -29,6 +29,7 @@ Learning HTML from [Dave Gray](https://github.com/gitdagray) on [YouTube](https:
 - 🔗 [MDN Web Glossary: Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - 🔗 [w3Schools: Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - 🔗 [MDN: Document and Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+- 🔗 [A beautiful Site: A clever way to style the `<mark>` element](https://www.abeautifulsite.net/posts/a-clever-way-to-style-the-mark-element/)
 
 ### 🖼️ Image Resources:
 - Placeholder Image Generators:
